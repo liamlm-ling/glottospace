@@ -29,4 +29,4 @@ Cite as:
 Moran, Steven & McCloy, Daniel (eds.) 2019. PHOIBLE. Jena: Max Planck Institute for the Science of Human History. (Available online at https://phoible.org)
 
 
-##------ Sun Nov  9 17:41:38 2025 ------##}
+##------ Thu Nov 13 17:57:33 2025 ------##}
